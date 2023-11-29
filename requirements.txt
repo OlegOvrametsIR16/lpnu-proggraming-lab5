@@ -1,3 +1,0 @@
-numpy==1.26.0
-Pillow @ file:///private/tmp/pillow-20231010-8030-15tpn2y/Pillow-10.0.1
-six==1.16.0
